@@ -1,4 +1,4 @@
-# Projeto-instagram
+# Projeto-Instagram
 
 ## Recriando a página inicial do Instagram
 
