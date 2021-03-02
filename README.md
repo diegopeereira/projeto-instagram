@@ -1,6 +1,6 @@
 # Projeto-Instagram
 
-#HTML Web Developer
+# HTML Web Developer
 
 ## Recriando a página inicial do Instagram
 
